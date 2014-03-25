@@ -3,6 +3,13 @@
 
   chinese ago
 
+``` js
+var ago = require('ago');
+var now = new Date;
+var res = ago(now - 60*1000);
+assert.equal(res, '1分钟前');
+```
+
 ## Installation
 
   Install with [component(1)](http://component.io):
