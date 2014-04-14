@@ -1,4 +1,3 @@
-
 # ago
 
   chinese ago
@@ -18,7 +17,7 @@ assert.equal(res, '1分钟前');
 
 ## API
 
-
+### ago(date | datetimestring | timestamp)
 
 ## License
 
