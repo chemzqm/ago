@@ -1,16 +1,18 @@
 {
   "name": "ago",
-  "repo": "chemzqm/ago",
   "description": "chinese ago",
   "version": "0.0.3",
   "keywords": [],
   "dependencies": {},
   "development": {
-    "component/assert": "*"
+    "dependencies": {
+      "component/assert": "*"
+    }
   },
   "license": "MIT",
   "main": "index.js",
   "scripts": [
     "index.js"
-  ]
+  ],
+  "repository": "chemzqm/ago"
 }
