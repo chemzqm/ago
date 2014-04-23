@@ -19,6 +19,8 @@ assert.equal(res, '1分钟前');
 
 ### ago(date | datetimestring | timestamp)
 
+* Argument could be `Date Object` valid `DateTimeString` or UNIX timestamp.
+
 ## License
 
   The MIT License (MIT)
