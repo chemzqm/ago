@@ -1,0 +1,25 @@
+{
+  "name": "component-ago",
+  "version": "0.0.0",
+  "description": "chinese ago",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chemzqm/ago.git"
+  },
+  "keywords": [
+    "ago"
+  ],
+  "author": "chemzqm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chemzqm/ago/issues"
+  },
+  "homepage": "https://github.com/chemzqm/ago"
+}
